@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @nhuhoainam
 - 👀 I’m interested in almost anything
-- 🌱 I’m currently learning C++ Programming
+- 🌱 I’m currently learning Programming
 - 📫 Contact me at: hoainamnguyennhu7@gmail.com
   
 
